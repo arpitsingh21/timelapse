@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
+<<<<<<< HEAD
+    package="com.example.dell.timelapsearpit">
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <!-- To enable app invites -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <!-- To geotag new posts with current location -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- To get pictures from camera for new posts -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+=======
+=======
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+    package="com.example.rishabhcha.videorecording">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+<<<<<<< HEAD
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+=======
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+<<<<<<< HEAD
+<<<<<<< HEAD
+            android:name="com.afollestad.materialcamera.CaptureActivity"
+            android:theme="@style/MaterialCamera.CaptureActivity" />
+        <activity
+            android:name="com.afollestad.materialcamera.CaptureActivity2"
+            android:theme="@style/MaterialCamera.CaptureActivity" />
+        <activity android:name=".MainActivity">
+=======
+            android:name=".CameraCaptureActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+=======
+            android:name=".CameraCaptureActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+        <activity
+            android:name=".PlayMovieSurfaceActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" />
+<<<<<<< HEAD
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+=======
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+    </application>
+
+</manifest>

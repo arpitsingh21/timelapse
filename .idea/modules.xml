@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Timelapsearpit.iml" filepath="$PROJECT_DIR$/Timelapsearpit.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/VideoRecording.iml" filepath="$PROJECT_DIR$/VideoRecording.iml" />
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+=======
+      <module fileurl="file://$PROJECT_DIR$/VideoRecording.iml" filepath="$PROJECT_DIR$/VideoRecording.iml" />
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

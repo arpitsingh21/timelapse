@@ -1,0 +1,16 @@
+<resources>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <string name="app_name">Timelapsearpit</string>
+    <string-array name="framerates">
+        <item>Fast</item>
+        <item>Normal</item>
+        <item>Slow</item>
+    </string-array>
+=======
+    <string name="app_name">VideoRecording</string>
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+=======
+    <string name="app_name">VideoRecording</string>
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+=======
+    <color name="colorPrimary">#d30053</color>
+    <color name="colorPrimaryDark">#d30053</color>
+    <color name="colorAccent">#d30053</color>
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+=======
+    <color name="colorPrimary">#d30053</color>
+    <color name="colorPrimaryDark">#d30053</color>
+    <color name="colorAccent">#d30053</color>
+>>>>>>> e72035b92470bfc329eef7fec7febe8fe745e5ab
+</resources>
